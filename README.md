@@ -95,3 +95,19 @@
     
 ## 3. Summary
 
+- Performance Table:
+
+    |   Method         |Total|Vehicle|Person|Run times| Enviroment|  
+    | ---------------- |:---:|:-----:|:----:|:-------:|:---------:|  
+    |               SSD|24.0%|  38.5%|  6.6%|    0.12s| GTX 1080ti|  
+    |            YOLOv3|32.7%|  39.9%| 20.6%|     0.2s| GTX 1080ti|  
+    |            YOLOv4|43.8%|  62.2%| 28.6%|    0.38s| GTX 1080ti|  
+    |     Scaled VOLOv4|47.6%|  63.7%| 32.9%|    0.34s| GTX 1080ti|  
+    |        Mask R-CNN|58.0%|  75.1%| 45.0%|       3s|TPU (Colab)|  
+    |      Faster R-CNN|63.6%|  73.9%| 47.2%|       7s|GPU (Colab)|  
+    
+- Speed (ms) of processing 1 images versus accuracy (AP) on KITTI dataset:
+
+    <img src="figures/comparasion.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    
+    
