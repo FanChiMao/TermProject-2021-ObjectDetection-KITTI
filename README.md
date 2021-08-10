@@ -15,6 +15,7 @@
 
 ## 2. Testing Result:
 - ### YOLOv3
+
   - Mean average precision of each class:  
     |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
     | ----------------- |:-:|:---:|:---:|:----:|:----:|:---:|:----:|:---:|
@@ -25,7 +26,17 @@
     ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_2.jpg)  
     ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_3.jpg)  
     
-- ### YOLOv4
+- ### YOLOv4  
+
+  - Mean average precision of each class:  
+    |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
+    | ----------------- |:-:|:---:|:---:|:----:|:----:|:---:|:----:|:---:|
+    | Average Precision |63.6%|63%|79%| 26.7%|   19.1%|40.1%| 57.5%| 50.2%|  
+    
+  - Performance:  
+    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_1.jpg)  
+    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_2.jpg)  
+    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_3.jpg)  
 - ### Scaled YOLOv4
 - ### SSD (VGG-300)
 - ### Faster RCNN
