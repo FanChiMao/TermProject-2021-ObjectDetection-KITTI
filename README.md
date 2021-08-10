@@ -34,10 +34,22 @@
     | Average Precision |63.6%|63%|79%| 26.7%|   19.1%|40.1%| 57.5%| 50.2%|  
     
   - Performance:  
-    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_1.jpg)  
-    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_2.jpg)  
-    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_3.jpg)  
-- ### Scaled YOLOv4
+    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v4_1.jpg)  
+    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v4_2.jpg)  
+    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v4_3.jpg)  
+    
+- ### Scaled YOLOv4  
+
+  - Mean average precision of each class:  
+    |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
+    | ----------------- |:-:|:---:|:---:|:----:|:----:|:---:|:----:|:---:|
+    | Average Precision |65.7%|60.9%|65.3%| 23.5%|   15.0%|60.4%| 62.9%| 59.1%|  
+    
+  - Performance:  
+    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/sv4_1.jpg)  
+    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/sv4_2.jpg)  
+    ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/sv4_3.jpg)  
+    
 - ### SSD (VGG-300)
 - ### Faster RCNN
 - ### Mask RCNN
