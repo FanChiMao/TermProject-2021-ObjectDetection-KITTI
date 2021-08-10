@@ -14,7 +14,7 @@
     
 
 ## 2. Testing Result:
-- ### YOLOv3 AP: 32.7%  
+- ### YOLOv3 `AP: 32.7%`  
 
   - Mean average precision of each class:  
     |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
@@ -27,7 +27,7 @@
     <img src="figures/v3_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
     <img src="figures/v3_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
     
-- ### YOLOv4 AP: 43.8%  
+- ### YOLOv4 `AP: 43.8%`  
 
   - Mean average precision of each class:  
     |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
@@ -41,7 +41,7 @@
     <img src="figures/v4_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
 
     
-- ### Scaled YOLOv4 AP: 47.6%  
+- ### Scaled YOLOv4 `AP: 47.6%`  
 
   - Mean average precision of each class:  
     |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
@@ -54,7 +54,7 @@
     <img src="figures/sv4_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
     <img src="figures/sv4_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
     
-- ### SSD (VGG-300, pretrained model) AP: 24%  
+- ### SSD (VGG-300, pretrained model) `AP: 24%`  
 
   - Mean average precision of each class:  
     |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
