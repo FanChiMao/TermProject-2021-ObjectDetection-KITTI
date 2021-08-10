@@ -1,7 +1,11 @@
 # TermProject-2021-kitti  
 
-## 1. Training data  
+## 1. Dataset Preparation    
 - [KITTI dataset](https://drive.google.com/drive/folders/1f47HB5gLQDElIAf600SX-VtrX58i7SpU?usp=sharing)  
+    - Training images  : 3000  
+    - Validation images: 81  
+    - Testing images   : 4481  
+
 - Sample of the training data with 8 classes:  
 
     |   Classes     |  Car   | Van|Truck|Walker|Sitter|Rider|Tram|Misc.|
