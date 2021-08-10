@@ -1,5 +1,4 @@
-# TermProject-2021-kitti  
-
+# TermProject-2021-ObjectDetection-KITTI  
 ## 1. Dataset Preparation    
 - [KITTI dataset](https://drive.google.com/drive/folders/1f47HB5gLQDElIAf600SX-VtrX58i7SpU?usp=sharing)  
     - Training images  : 3000  
