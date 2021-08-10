@@ -76,9 +76,9 @@
     
   - Performance:  
     
-    <img src="figures/faster_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
-    <img src="figures/faster_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
-    <img src="figures/faster_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/faster_1.JPG" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/faster_2.JPG" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/faster_3.JPG" alt="arch" width="500" style="zoom:100%;" />  
     
 - ### Mask RCNN (ResNet-101, pretrained model) `AP: 57.99%`  
 
@@ -89,9 +89,9 @@
     
   - Performance:  
     
-    <img src="figures/mask_1.JPG" alt="arch" width="500" style="zoom:100%;" />  
-    <img src="figures/mask_2.JPG" alt="arch" width="500" style="zoom:100%;" />  
-    <img src="figures/mask_3.JPG" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/mask_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/mask_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/mask_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
     
 ## 3. Summary
 
