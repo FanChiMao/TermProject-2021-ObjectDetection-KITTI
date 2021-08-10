@@ -20,7 +20,7 @@
     | ----------------- |:-:|:---:|:---:|:----:|:----:|:---:|:----:|:---:|
     | Average Precision |73%|35.9%|56.5%| 31.5%|    0%|30.5%| 33.8%| 0.3%|  
     
-  - Performance:
+  - Performance:  
     ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_1.jpg)  
     ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_2.jpg)  
     ![image](https://github.com/FanChiMao/TermProject-2021-kitti/blob/main/figures/v3_3.jpg)  
