@@ -23,9 +23,9 @@
     
   - Performance:  
 
-    <img src="figures/v3_1.jpg" alt="arch" style="zoom:100%;" />  
-    <img src="figures/v3_2.jpg" alt="arch" style="zoom:100%;" />  
-    <img src="figures/v3_3.jpg" alt="arch" style="zoom:100%;" />  
+    <img src="figures/v3_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/v3_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/v3_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
     
 - ### YOLOv4  
 
@@ -36,9 +36,9 @@
     
   - Performance:  
 
-    <img src="figures/v4_1.jpg" alt="arch" style="zoom:100%;" />  
-    <img src="figures/v4_2.jpg" alt="arch" style="zoom:100%;" />  
-    <img src="figures/v4_3.jpg" alt="arch" style="zoom:100%;" />  
+    <img src="figures/v4_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/v4_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/v4_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
 
     
 - ### Scaled YOLOv4  
@@ -50,9 +50,9 @@
     
   - Performance:  
     
-    <img src="figures/sv4_1.jpg" alt="arch" style="zoom:100%;" />  
-    <img src="figures/sv4_2.jpg" alt="arch" style="zoom:100%;" />  
-    <img src="figures/sv4_3.jpg" alt="arch" style="zoom:100%;" />  
+    <img src="figures/sv4_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/sv4_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/sv4_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
     
 - ### SSD (VGG-300)
 - ### Faster RCNN
