@@ -15,6 +15,14 @@
 
 ## 2. Testing Result:
 - ### YOLOv3
+  - Mean average precision of each class:  
+    |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
+    | ----------------- |:-:|:---:|:---:|:----:|:----:|:---:|:----:|:---:|
+    | Average Precision |73%|35.9%|56.5%| 31.5%|    0%|30.5%| 33.8%| 0.3%|  
+    
+  - Performance:
+
+
 - ### YOLOv4
 - ### Scaled YOLOv4
 - ### SSD (VGG-300)
