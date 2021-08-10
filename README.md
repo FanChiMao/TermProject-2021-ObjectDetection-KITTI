@@ -108,7 +108,7 @@
     
 - Speed (ms) of processing 1 images versus accuracy (AP) on KITTI dataset:
 
-    <img src="figures/comparasion.JPG" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/comparasion.JPG" alt="arch" style="zoom:100%;" />  
 
 ## 4. [Final Term Project Report](https://drive.google.com/file/d/124NBMW1x0Y_Et5gJU92Qf7PXZcg0sI11/view?usp=sharing)
 ## 5. Contact me: qaz5517359@gmail.com
