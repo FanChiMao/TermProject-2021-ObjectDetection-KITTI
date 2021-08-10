@@ -14,7 +14,7 @@
     
 
 ## 2. Testing Result:
-- ### YOLOv3
+- ### YOLOv3 AP: 32.7%  
 
   - Mean average precision of each class:  
     |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
@@ -23,11 +23,11 @@
     
   - Performance:  
 
-    <img src="figures/v3_1.jpg" alt="arch" width="750" style="zoom:100%;" />  
-    <img src="figures/v3_2.jpg" alt="arch" width="750" style="zoom:100%;" />  
-    <img src="figures/v3_3.jpg" alt="arch" width="750" style="zoom:100%;" />  
+    <img src="figures/v3_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/v3_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/v3_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
     
-- ### YOLOv4  
+- ### YOLOv4 AP: 43.8%  
 
   - Mean average precision of each class:  
     |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
@@ -36,12 +36,12 @@
     
   - Performance:  
 
-    <img src="figures/v4_1.jpg" alt="arch" width="750" style="zoom:100%;" />  
-    <img src="figures/v4_2.jpg" alt="arch" width="750" style="zoom:100%;" />  
-    <img src="figures/v4_3.jpg" alt="arch" width="750" style="zoom:100%;" />  
+    <img src="figures/v4_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/v4_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/v4_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
 
     
-- ### Scaled YOLOv4  
+- ### Scaled YOLOv4 AP: 47.6%  
 
   - Mean average precision of each class:  
     |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
@@ -50,10 +50,22 @@
     
   - Performance:  
     
-    <img src="figures/sv4_1.jpg" alt="arch" width="750" style="zoom:100%;" />  
-    <img src="figures/sv4_2.jpg" alt="arch" width="750" style="zoom:100%;" />  
-    <img src="figures/sv4_3.jpg" alt="arch" width="750" style="zoom:100%;" />  
+    <img src="figures/sv4_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/sv4_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/sv4_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
     
-- ### SSD (VGG-300)
+- ### SSD (VGG-300, pretrained model) AP: 24%  
+
+  - Mean average precision of each class:  
+    |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
+    | ----------------- |:-:|:---:|:---:|:----:|:----:|:---:|:----:|:---:|
+    | Average Precision |59.6%|39.3%|29.9%| 9.1%| 0%|10.6%| 23.6%| 20.0%|  
+    
+  - Performance:  
+    
+    <img src="figures/sv4_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/sv4_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/sv4_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    
 - ### Faster RCNN
 - ### Mask RCNN
