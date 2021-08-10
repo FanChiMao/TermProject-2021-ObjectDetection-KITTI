@@ -67,5 +67,31 @@
     <img src="figures/sv4_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
     <img src="figures/sv4_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
     
-- ### Faster RCNN
-- ### Mask RCNN
+- ### Faster RCNN (ResNet-101, pretrained model) `AP: 63.6%`  
+
+  - Mean average precision of each class:  
+    |   Classes         |Car|  Van|Truck|Walker|Sitter|Rider|  Tram|Misc.|
+    | ----------------- |:-:|:---:|:---:|:----:|:----:|:---:|:----:|:---:|
+    | Average Precision |80.0%|78.4%|86.3%| 57.8%| 16.5%|67.3%| 75.7%| 49.1%|  
+    
+  - Performance:  
+    
+    <img src="figures/faster_1.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/faster_2.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/faster_3.jpg" alt="arch" width="500" style="zoom:100%;" />  
+    
+- ### Mask RCNN (ResNet-101, pretrained model) `AP: 57.99%`  
+
+  - Mean average precision of each class:  
+    |   Classes         |Vehicle|  Person|
+    | ----------------- |:-----:|:------:|
+    | Average Precision |  75.1%|   45.0%|
+    
+  - Performance:  
+    
+    <img src="figures/mask_1.JPG" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/mask_2.JPG" alt="arch" width="500" style="zoom:100%;" />  
+    <img src="figures/mask_3.JPG" alt="arch" width="500" style="zoom:100%;" />  
+    
+## 3. Summary
+
