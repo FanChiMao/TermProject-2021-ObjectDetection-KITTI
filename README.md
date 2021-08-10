@@ -14,9 +14,9 @@
     
 
 ## 2. Testing Result:
-### YOLOv3
-### YOLOv4
-### Scaled YOLOv4
-### SSD (VGG-300)
-### Faster RCNN
-### Mask RCNN
+- ### YOLOv3
+- ### YOLOv4
+- ### Scaled YOLOv4
+- ### SSD (VGG-300)
+- ### Faster RCNN
+- ### Mask RCNN
